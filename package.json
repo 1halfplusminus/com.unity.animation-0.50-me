@@ -1,0 +1,34 @@
+{
+  "name": "com.unity.animation",
+  "displayName": "Animation",
+  "version": "0.50.0-preview.1",
+  "unity": "2020.1",
+  "unityRelease": "9f1",
+  "description": "The Animation package defines a new animation system entirely written in C# based on our Data-Oriented Technology Stack. \n\nThis is a highly experimental package which should NOT be considered suitable for production.",
+  "dependencies": {
+    "com.unity.mathematics": "1.2.1",
+    "com.unity.entities": "0.17.0-preview.41",
+    "com.unity.collections": "0.15.0-preview.21",
+    "com.unity.jobs": "0.50.0-preview.8",
+    "com.unity.burst": "1.4.1",
+    "com.unity.test-framework": "1.1.20",
+    "com.unity.test-framework.performance": "2.3.1-preview",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.rendering.hybrid": "0.50.0-preview.24"
+  },
+  "keywords": [
+    "dots",
+    "animation",
+    "unity",
+    "state machine",
+    "blend graph"
+  ],
+  "upmCi": {
+    "footprint": "903e889d30ef74ba81e68bc4c1e1c79ae6c1e4cc"
+  },
+  "repository": {
+    "url": "https://github.com/Unity-Technologies/Unity.Animation.git",
+    "type": "git",
+    "revision": "1eee17bbbd13a78d9b29bb49c16a16b08321fefa"
+  }
+}
